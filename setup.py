@@ -13,7 +13,7 @@ setuptools.setup(
 	description = "You can listen to the speaking of programming language.", 
 	long_description = long_description, 
 	long_description_content = "text/markdown", 
-	url = "", 
+	url = "https://github.com/zhiwenhu471/Python_project.git", 
 	py_modules = ['langspeak',], 
 	packages = setuptools.find_packages(), 
 	classifiers = ("Programming Language :: MTT License", 
